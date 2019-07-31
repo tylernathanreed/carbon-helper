@@ -1,0 +1,20 @@
+{
+    "name": "reedware/carbon-helper",
+    "description": "Adds a global helper method to create carbon instances.",
+    "keywords": ["carbon", "date", "time"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tyler Reed",
+            "email": "tylernathanreed@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.0 || ^2.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

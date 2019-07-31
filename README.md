@@ -9,8 +9,6 @@ Adds a global helper method to create Carbon instances. See [http://carbon.nesbo
 carbon('2019-07-23 14:51'); // Equivalent to \Carbon\Carbon::parse('2019-07-23 14:51');
 ```
 
-[Get supported nesbot/carbon with the Tidelift Subscription](https://tidelift.com/subscription/pkg/packagist-nesbot-carbon?utm_source=packagist-nesbot-carbon&utm_medium=referral&utm_campaign=readme)
-
 ## Installation (Using Composer)
 
 Run the following command:

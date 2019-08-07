@@ -1,7 +1,7 @@
 # Carbon Helper
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/reedware/carbon-helper.svg?style=flat-square)](https://packagist.org/packages/reedware/carbon-helper)
-[![Total Downloads](https://img.shields.io/packagist/dt/reedware/carbon-helper.svg?style=flat-square)](https://packagist.org/packages/reedware/carbon-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/reedware/carbon-helper)](https://packagist.org/packages/reedware/carbon-helper)
 
 Adds a global helper method to create Carbon instances. See [http://carbon.nesbot.com](http://carbon.nesbot.com) for how to use Carbon.
 
